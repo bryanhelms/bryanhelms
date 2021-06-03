@@ -1,4 +1,4 @@
-![Image of Il Sentiero degli Dei in Positano Italy](img/positano.jpg)
+![View from Il Sentiero degli Dei above Positano, Italy](img/positano.jpg)
 
 ### Hello there! 👋
 
