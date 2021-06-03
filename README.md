@@ -1,3 +1,5 @@
+![Image of Il Sentiero degli Dei in Positano Italy](img/positano.jpg)
+
 ### Hello there! 👋
 
 I'm Bryan Helms, an experienced software generalist in San Francisco, CA, USA.
