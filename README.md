@@ -2,7 +2,7 @@
 
 ### Hello there! 👋
 
-I'm Bryan Helms, an experienced software generalist in San Francisco, CA, USA.
+I'm Bryan Helms, and I work on Octoservices at GitHub.
 
 #### Primary Experience
 - C# and .NET Core
